@@ -1,6 +1,6 @@
-One of the easier OSI challenges
-
 # Solution
+
+One of the easier OSI challenges
 
 First I just extracted the file from the away-on-vacation.tar.gz file
 
@@ -10,4 +10,10 @@ I got a mp3 file i ran it and listened to what appears to be an automated messag
 
 ![websearch](bingsearch.PNG)
 
-Opened up his instagram file to find a flag on one of his posts
+Opened up his instagram file to find the flag on one of his posts
+
+![instagrampost](instagrampost.PNG)
+
+Flag: irisctf{pub1ic_4cc0unt5_4r3_51tt1ng_duck5}
+
+Bingo
