@@ -1,3 +1,5 @@
+## Away On Vacation - OSI Challenge
+
 # Solution
 
 One of the easier OSI challenges
