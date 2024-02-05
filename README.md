@@ -1,2 +1,3 @@
 # IrisCTF-Writeups
-Just writeups on the challenges I have figured out and solved in IrisCTF
+Just writeups for some of the challenges I have figured out and solved in IrisCTF
+

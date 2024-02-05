@@ -16,6 +16,6 @@ Opened up his instagram file to find the flag on one of his posts
 
 ![instagrampost](instagrampost.PNG)
 
-Flag: irisctf{pub1ic_4cc0unt5_4r3_51tt1ng_duck5}
+**Flag:** irisctf{pub1ic_4cc0unt5_4r3_51tt1ng_duck5}
 
 Bingo
